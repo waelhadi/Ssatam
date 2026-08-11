@@ -1,1 +1,9 @@
 
+SIGNATURES_POOL = [
+    {
+        "device_id": "7277899449872407824",
+        "x-argus": "BMhXVPuWxYhETysYUZ1WQP+CrQH3wZkirJ703lwYluudN8DDE2EPs3AjxUc+02rX3tvqHIZ8htY31oMSsjk+0pbmQQki5VhzRS31Mx1i3crkyfN6mlwPfzVMP+VGDQPyiy3qpfoUOxkRvsWwwajmTqHE4A4Ybn8R6E+LFabl9zVUMQI83O8kqQKB0oEmuf5kYHg9tSeLCAv0o17hx+3Gn84I/s19njEVfROcPH+wqZ3k4dTknwF5R0lUmydamlLAFe3eOJGVDzFA/glMBq2IH0miLTo6Kt4QdSJlMYkdzQnvhop3iqg/DMsjxfN0g/0wf+YfJMyDQj8MCTHaEieNSgTGSRRMNSG4zjbs5asSHpw51ISsfofmnVEROCW5rJw6Fp8oGRxDiR+OUnQ02UBEjBApSH7g8kNDie9mGhRdjQhl47nky4/2Q4lQ8u55Pu6I38C7dr9NcC9E57glJn1y7JnTRCjd1DDib4KrhKS6KnKyJ5actoGf+PIA/wkaZp5Kgw5wh6eum+H5TxZjijCO91sRpEehapmlBzmetirvb7yBqQ==",
+        "x-ladon": "FPw9KJCkyHMSwnIfHWIM5z1pAqhZLJuomoxixEJMmhd8SQv5",
+        "x-khronos": "1786485605"
+    }
+]
