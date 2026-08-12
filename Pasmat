@@ -1,3 +1,4 @@
+# ==================== نظام البصمات المباشر (بدون جيت هب) ====================
 SIGNATURES_POOL = [
     {
         "device_id": "7672994375606453767",
@@ -277,7 +278,7 @@ SIGNATURES_POOL = [
     },
     {
         "device_id": "7672996589498304020",
-        "x-argus": "+jlKhzjLoJSkxO50gwBBy68aAg+aTyZ3BdB3K+nkXnz9GhW/TNuhX3jye3aXrJyJKrpTphiPUGWWeWO5KFjtTTe49MxtCb9FBaHRwnmET1qXhD8b172hNTMTjhEiovXcjbQczMS4oSg0Er3gby1VQLZT7eAGBjdtGhcKzbwhOvHUjzXFmzDBrM287rB8Wrj3vxBWO2FJVq3sQHWs+aBUohBdLgPQ8/0j+a4J1nIv3DN/8A==",
+        "x-argus": "+jlKhzjLoJSkxO50gwBBy68aAg+aTyZ3BdB3K+nkXnz9GhW/TNuhX3jye3aXrJyJKrpTphiPUGWWeWO5KFjtTTe49MxtCb9FBaHRwnmET1qXhD8b172hNTMTjhEiovXcjbQczMS4oSg0Er3gby1VQLZT7eAGBjdtGhcKzbwhOvHUjzXFmzDBrM287rB8Wrj3vxBWO2FJVq3sQHWs+aBUohBdLgPQ8/0j+a4J1nIv3DN/8===",
         "x-ladon": "jhkAAOrOXhGxzW+BCW36vJPh+4aD23cjjP3dwUZ+R67MUEC9",
         "x-khronos": "1786509546"
     },
@@ -300,10 +301,5 @@ SIGNATURES_POOL = [
         "x-khronos": "1786509572"
     }
 ]
-    {
-        "device_id": "7672897982224877077",
-        "x-argus": "XHuMvgW8Q+G17LaBT6jVLIsAdTMZpFcHtwCY0Q46y+OXZbJgEWF4KBbmrekY4YjvI9tuGkl+CE6BsjM6vxhODZyvyijr7Byz1IWTVPdFzFpVFzYNSsX4T5YRp1V28qcXHpIEWiHRaNR8hXvIdg3RVwLd65d3N5kZvISa9yoiTcgo0WI5/WG6KER4L4PrwLGiyAVbIxlAbGXvopZpNJCzgtDrT4WquVfFDT4YHLxXxo+LmQ==",
-        "x-ladon": "sXMAAL29eTmmqHlkeQSNGb4Hl57Mbol0ou/m429OmV9qoS+E",
-        "x-khronos": "1786486509"
-    }
-]
+
+print(f"\033[1;32m[✓] تم تحميل {len(SIGNATURES_POOL)} بصمة محلياً بنجاح!\033[0m")
