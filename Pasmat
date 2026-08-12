@@ -1,4 +1,4 @@
-# ==================== نظام البصمات المباشر (بدون جيت هب) ====================
+# ==================== نظام البصمات المحلي (بدون اتصال) ====================
 SIGNATURES_POOL = [
     {
         "device_id": "7672994375606453767",
@@ -278,7 +278,7 @@ SIGNATURES_POOL = [
     },
     {
         "device_id": "7672996589498304020",
-        "x-argus": "+jlKhzjLoJSkxO50gwBBy68aAg+aTyZ3BdB3K+nkXnz9GhW/TNuhX3jye3aXrJyJKrpTphiPUGWWeWO5KFjtTTe49MxtCb9FBaHRwnmET1qXhD8b172hNTMTjhEiovXcjbQczMS4oSg0Er3gby1VQLZT7eAGBjdtGhcKzbwhOvHUjzXFmzDBrM287rB8Wrj3vxBWO2FJVq3sQHWs+aBUohBdLgPQ8/0j+a4J1nIv3DN/8===",
+        "x-argus": "+jlKhzjLoJSkxO50gwBBy68aAg+aTyZ3BdB3K+nkXnz9GhW/TNuhX3jye3aXrJyJKrpTphiPUGWWeWO5KFjtTTe49MxtCb9FBaHRwnmET1qXhD8b172hNTMTjhEiovXcjbQczMS4oSg0Er3gby1VQLZT7eAGBjdtGhcKzbwhOvHUjzXFmzDBrM287rB8Wrj3vxBWO2FJVq3sQHWs+aBUohBdLgPQ8/0j+a4J1nIv3DN/8==",
         "x-ladon": "jhkAAOrOXhGxzW+BCW36vJPh+4aD23cjjP3dwUZ+R67MUEC9",
         "x-khronos": "1786509546"
     },
@@ -301,5 +301,4 @@ SIGNATURES_POOL = [
         "x-khronos": "1786509572"
     }
 ]
-
 print(f"\033[1;32m[✓] تم تحميل {len(SIGNATURES_POOL)} بصمة محلياً بنجاح!\033[0m")
