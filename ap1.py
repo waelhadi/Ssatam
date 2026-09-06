@@ -1,3 +1,12 @@
+import os
+import sys
+
+# === شرط حماية الأداة (لا تعمل إلا عبر لودر النسر) ===
+if os.environ.get("NASR_LOADER_SECURE_KEY") != "NASR_VIP_SECURE_2026_KEY":
+    print("\033[1;31m[!] خطأ أمني: هذه الأداة لا تعمل إلا من خلال لودر النسر الرسمي!\033[0m")
+    sys.exit(1)
+# ====================================================
+
 import sys
 import time
 
